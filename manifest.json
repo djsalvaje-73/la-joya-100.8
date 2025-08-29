@@ -1,6 +1,6 @@
 {
-  "name": "DJ WILMER EN VIVO",
-  "short_name": "DJ WILMER",
+  "name": "LA JOYA 100.8 EN VIVO",
+  "short_name": "DJ SALVAJE",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#121212",
@@ -8,12 +8,12 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "https://i.ibb.co/mhw9LGh/DJ-WILMER-PNG-ORIGINAL.png",
+      "src": "https://ibb.co/CsKT2ddd.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://i.ibb.co/mhw9LGh/DJ-WILMER-PNG-ORIGINAL.png",
+      "src": "https://ibb.co/CsKT2ddd.png",
       "sizes": "512x512",
       "type": "image/png"
     }
